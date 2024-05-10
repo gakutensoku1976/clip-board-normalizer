@@ -1,0 +1,27 @@
+{
+    "shortcut_key": "ctrl+alt+d",
+    "text_normalization": {
+        "translate": [
+            {
+                "from": "　",
+                "to": " "
+            },
+            {
+                "from": "０１２３４５６７８９",
+                "to": "0123456789"
+            },
+            {
+                "from": "ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ",
+                "to": "abcdefghijklmnopqrstuvwxyz"
+            },
+            {
+                "from": "ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ",
+                "to": "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+            },
+            {
+                "from": "！＂＃＄％＆＇（）＊＋，－．／：；＜＝＞？＠［￥］＾＿｀｛｜｝～",
+                "to": "!\"#$%&'()*+,-./:;<=>?@[¥]^_`{|}~"
+            }
+        ]
+    }
+}
